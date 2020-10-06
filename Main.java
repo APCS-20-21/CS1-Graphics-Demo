@@ -7,7 +7,7 @@ public class Main {
     JFrame f = new JFrame();
 
     // creating instance of JButton
-    SmileyFace b = new SmileyFace();
+    Demo b = new Demo();
 
     // add button to JFrame
     f.add(b);
